@@ -1,20 +1,15 @@
-# Memory Game Project
+# Project 1 : Memory Game
 
-## Table of Contents
+### My Memory Game
 
-* [Instructions](#instructions)
-* [Contributing](#contributing)
+* This is a simple game that for fun activity.
+* Match the tiles having same picture in minimum moves and win.
+* Based on your performance you will get ratings for the same.
+* You can play the game [here]().
 
-## Instructions
+### External libraries Used
 
-The starter project has some HTML and CSS styling to display a static version of the Memory Game project. You'll need to convert this project from a static project to an interactive one. This will require modifying the HTML and CSS files, but primarily the JavaScript file.
+* jQuery
+* [animate.css](https://github.com/daneden/animate.css)
+* [vex](http://github.hubspot.com/vex/)
 
-To get started, open `js/app.js` and start building out the app's functionality
-
-For specific, detailed instructions, look at the project instructions in the [Udacity Classroom](https://classroom.udacity.com/me).
-
-## Contributing
-
-This repository is the starter code for _all_ Udacity students. Therefore, we most likely will not accept pull requests.
-
-For details, check out [CONTRIBUTING.md](CONTRIBUTING.md).
